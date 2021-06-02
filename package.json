@@ -9,6 +9,7 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
+    "expo": "^41.0.1",
     "react": "17.0.1",
     "react-native": "0.64.1"
   },
